@@ -1,2 +1,5 @@
 *.classes
 target/classes/*.classes
+/nbproject/private/
+/build/
+/dist/
