@@ -1,5 +1,14 @@
-*.classes
-target/classes/*.classes
-/nbproject/private/
-/build/
-/dist/
+# Gradle
+# ------
+.gradle
+/build
+/buildSrc/build
+/buildSrc/subprojects/*/build
+/subprojects/*/build
+/subprojects/docs/src/samples/**/build
+/subprojects/internal-android-performance-testing/build-android-libs
+
+# NetBeans
+# --------
+.nb-gradle
+.nb-gradle-properties

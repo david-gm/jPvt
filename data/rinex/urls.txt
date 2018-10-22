@@ -1,0 +1,4 @@
+https://igs.bkg.bund.de/dataandproducts/browse#
+
+	broadcast 	: MGEX BRDC_v3 2018 290
+	obs			: MGEX obs 2018 289
